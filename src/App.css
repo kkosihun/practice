@@ -13,7 +13,7 @@
   }
   &:focus-visible {
     outline: 2px solid var(--accent);
-    outline-offset: 100px;
+    outline-offset: 1000px;
   }
 }
 
